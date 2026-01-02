@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Money Tracker/Money Tracker.vcxproj" Id="0104aeca-6c18-44d9-9986-51fd6cc90481" />
+</Solution>
